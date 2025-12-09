@@ -1,11 +1,11 @@
 # RapidPDFTools Bot
 
 This is a simple Telegram file-conversion bot (MVP). Features:
-- JPG -> PDF
-- PDF -> JPG (requires poppler)
+- JPG -> PNG
+- PNG -> JPG (requires poppler)
 - Merge multiple PDFs
-- Compress PDF (basic)
-- Word <-> PDF (LibreOffice)
+- Compress PDF 
+- Word <-> PDF 
 
 ## Setup (local)
 1. Clone or extract the project.
